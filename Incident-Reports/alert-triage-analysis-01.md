@@ -26,4 +26,4 @@ Improved understanding of SOC workflows and real-world alert handling procedures
 
 
 ## Evidence
-screenshots/alert-triage-room.2.png.png
+![SOC Alert Triage]
