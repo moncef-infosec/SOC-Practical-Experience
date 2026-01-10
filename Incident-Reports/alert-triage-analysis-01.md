@@ -23,3 +23,7 @@ Alerts were evaluated and prioritized based on severity and potential threat imp
 
 ## Outcome
 Improved understanding of SOC workflows and real-world alert handling procedures.
+
+
+## Evidence
+![SOC Alert Triage](../screenshots/alert-triage-room.png)
