@@ -29,3 +29,4 @@ The analyzed email contained phishing characteristics and was treated as a poten
 - Alert triage
 - Incident documentation
 - Security mindset
+Phishing-Incident-Analysis/Screenshot 2026-02-19 162059.png
